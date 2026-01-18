@@ -1,0 +1,122 @@
+body {
+    background-color: black;
+    /* text-align: center; */
+   
+}
+.seven {
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+    
+} 
+
+.one    {
+    width: 20px;
+     white-space: nowrap;
+}
+.two {
+     
+    color: gray;
+    /* padding: 15px; */
+    padding-left: 7px;
+    padding-right: 7px;
+    cursor: pointer;
+    white-space: nowrap;
+
+}
+.two:hover {
+    color: darkgrey;
+     
+}
+.four {
+    background-color: #007ACC;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+      
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+     white-space: nowrap;
+}
+#container {
+    flex-wrap: nowrap;
+    padding-right: 100px;
+    padding-left: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+.five {
+  text-align: center;
+  /* padding: 10px; */
+  color: grey;
+}
+.six {
+    /* font-weight: bold; */
+    color: #007ACC;
+    font-size: 20px;
+    text-decoration: none;
+}
+.eight {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-left: 400px;
+    padding-left: 250px;
+   gap: 90px;
+}
+.nine {
+    display: flex;
+    flex-direction: column;
+}
+
+.ss {
+    margin-top: 30px;
+    width: 700px;
+    height: 550px;
+}
+.jj {
+    text-align: center;
+    border:  solid;
+    margin-top: 100px;
+    border-radius: 30px;
+    border-style: none;
+    background-color: rgb(42, 41, 41);
+    width: 320px;
+    height: 20px;
+    color: rgb(145, 144, 144);
+}
+.hh {
+    padding: 0%;
+    font-size: 70px;
+    color:white
+}
+.eleven {
+     background-color: #007ACC;
+    color: white;
+    border: none;
+    width: 250px;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none; 
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+     
+  
+}
+.ww {
+    color: #007ACC;
+    font-size: 20px;
+    text-decoration: none;
+}
+.ten {
+    color: grey;
+    font-size: 15px;
+    text-decoration: none;
+}
